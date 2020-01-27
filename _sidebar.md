@@ -7,7 +7,7 @@
 * [Gestor de usuarios](options)
 * [Perfil](options)
 * Informes de auditoria
-  * [Editor de texto](options)
+  * [Editor de texto](options/editor.md)
   * [Gestor de informes](options)
 * Planes de acción
   * [Editor de formatos de planes de acción](options)
