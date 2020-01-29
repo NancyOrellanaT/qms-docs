@@ -3,15 +3,22 @@
 exportar a Word y analizar en busca de no conformidades.
 ### Ingresar al editor de informes
 ___
-Selecciona la opción *Editor* dentro de la sección de *Informes* en el sidebar como muestra la figura.  
-![Vista del sidebar](../_media/editor/sidebar.PNG "Sidebar")
+Selecciona la opción *Editor* dentro de la sección de *Informes* en el sidebar como muestra la figura.
+
+<p class="align-center">
+  <img src="../_media/editor/sidebar.PNG">
+</p>
+
 ### Crear nuevo documento
 ___
 Para crear un nuevo documento, ingresa un nombre en el campo *Nombre del archivo* y presiona el botón *Guardar*.  
+
 ![Vista del sidebar](../_media/editor/documento_nuevo.PNG "Documento nuevo")
-Si se logró guardar en la base de datos el botón cambiará su color a azul y su texto a *Guardado*.  
+Si se logró guardar en la base de datos el botón cambiará su color a azul y su texto a *Guardado*.
+
 ![Vista del sidebar](../_media/editor/documento_guardado.PNG "Documento guardado")
 ### Guardar documento
 ___
 Presiona el botón *Guardar*
+
 ![Vista del sidebar](../_media/editor/documento_guardar.PNG "Documento a guardar")
