@@ -20,8 +20,6 @@ En caso de haber ingresado incorrectamente los datos el formulario mostrará el 
 
 En caso de no recordar la contraseña correspondiente a un usuario debe acceder a la opción *RECORDAR*. Al presionar esta se le redirigirá al siguiente formulario
 
-<p class="align-center">
-  <img src="../_media/login/recuperar_contraseña.PNG"/>
-</p>
+![Recuperar contraseña](../_media/login/recuperar_contraseña.PNG#center "Recuperar contraseña")
 
 Donde una vez completado correctamente su correo y aceptado la opción enviar se le enviará un mensaje a su correo con un código de verificación que le permitirá iniciar sesión y reestablecer su contraseña.

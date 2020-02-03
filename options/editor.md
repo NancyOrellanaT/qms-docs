@@ -5,9 +5,7 @@ exportar a Word y analizar en busca de no conformidades.
 ___
 Selecciona la opción *Editor* dentro de la sección de *Informes* en el sidebar como muestra la figura.
 
-<p class="align-center">
-  <img src="../_media/editor/sidebar.PNG">
-</p>
+![Sidebar](../_media/editor/sidebar.PNG#center "Sidebar")
 
 ### Crear nuevo documento
 ___
