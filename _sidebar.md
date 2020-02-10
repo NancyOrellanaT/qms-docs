@@ -7,6 +7,7 @@
 * **Informes de auditoria**
   * [Editor de texto](options/editor.md)
   * [Gestor de informes](options)
+  * [Extraer no conformidades](options/search.md)  
 * **Planes de acción**
   * [Editor de formatos de planes de acción](options)
   * [Gestor de planes de acción](options)
